@@ -1,2 +1,3 @@
 # How to run the app?
-### "you've just run " npm run server "
+### " in vscode just run " npm run server " before " npm start "
+#### Good Luck

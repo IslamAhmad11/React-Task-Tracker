@@ -1,1 +1,2 @@
-# how to open the app?
+# How to run the app?
+### "you've just run " npm run server "

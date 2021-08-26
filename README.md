@@ -1,1 +1,1 @@
-how to open the app?
+#how to open the app?
